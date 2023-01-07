@@ -27,4 +27,6 @@ Start in development mode
 php artisan serve
 ```
 
+<http://localhost:8000/log-viewer>
+
 ##### Made with ❤️ by Leandro Arturi
